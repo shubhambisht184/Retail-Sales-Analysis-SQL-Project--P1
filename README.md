@@ -208,7 +208,8 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 
 
 
-- **LinkedIn**: [Connect with me professionally](www.linkedin.com/in/shubham-bisht-7b4b45336)
+- **LinkedIn:
+(www.linkedin.com/in/shubham-bisht-7b4b45336)
 
 
 Thank you for your support, and I look forward to connecting with you!
